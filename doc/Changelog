@@ -1,3 +1,6 @@
+25 June 2025: Yorgos
+	- Fix #1247: forward-first: ssl handshake failed on root nameservers.
+
 11 April 2025: Yorgos
 	- Merge #1265: Fix WSAPoll.
 
